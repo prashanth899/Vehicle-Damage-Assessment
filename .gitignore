@@ -11,7 +11,6 @@ dataset/
 testimages/
 
 # Node
-frontend/node_modules/
 
 # OS files
 .DS_Store
