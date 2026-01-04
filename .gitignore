@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# YOLO training outputs
+runs/
+
+# Dataset (too large, private)
+dataset/
+testimages/
+
+# Node
+frontend/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models (optional – see note below)
+yolov8n.pt
